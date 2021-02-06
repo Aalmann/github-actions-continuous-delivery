@@ -5,6 +5,7 @@ metadata:
   description: GitHub Acton for continuous delivery.
   annotations:
     backstage.io/techdocs-ref: value
+    github.com/project-slug: 'Aalmann/github-actions-continuous-delivery'
 spec:
   type: library
   lifecycle: experimental
