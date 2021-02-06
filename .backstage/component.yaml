@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: github-actions-continuous-delivery
+  description: GitHub Acton for continuous delivery.
+spec:
+  type: library
+  lifecycle: experimental
+  owner: Aalmann
+  system: learning-lab
