@@ -4,7 +4,7 @@ metadata:
   name: github-actions-continuous-delivery
   description: GitHub Acton for continuous delivery.
   annotations:
-    backstage.io/techdocs-ref: 'https://lab.github.com/githubtraining/github-actions:-continuous-delivery'
+    backstage.io/techdocs-ref: 'https://lab.github.com/githubtraining/github-actions:-continuous-integration'
     github.com/project-slug: 'Aalmann/github-actions-continuous-delivery'
 spec:
   type: library
